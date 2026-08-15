@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+// This is a single line comment
+
+int main()
+{
+    int a = 10; // Declare first variable
+    int b = 20; // Declare second variable
+
+    // Calculate the sum
+    int sum = a + b;
+
+    cout << "Sum = " << sum << endl; // Display result
+
+    return 0; // End of program
+}
